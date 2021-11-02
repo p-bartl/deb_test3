@@ -19,6 +19,8 @@
     "db-migrate-pg": "^1.2.2",
     "express": "^4.17.1",
     "jasmine": "^3.10.0",
+    "jasmine-ts": "^0.4.0",
+    "ts-node": "^10.4.0",
     "typescript": "^4.1.3"
   },
   "devDependencies": {
